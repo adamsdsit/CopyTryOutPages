@@ -1,5 +1,3 @@
-# Toward Developing a Cloud Computing Model Curriculum
-
 This is the initial working area for the ITiCSE 2019 Working Group working to
 create Cloud Computing Resources.
 
