@@ -26,6 +26,8 @@ hands-on modules that can be easily integrated into curricula, as well as
 building a repository of assignments following the recent nifty/peachy
 assignments model [6].
 
+## Participants
+A full list of participants for 2018 and 2019 can be [found here].(participants.md).
 
 ## The Knowledge Areas
 
