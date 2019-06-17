@@ -26,14 +26,6 @@ hands-on modules that can be easily integrated into curricula, as well as
 building a repository of assignments following the recent nifty/peachy
 assignments model [6].
 
-## Participants
-
-The 2019 WG leaders are:
- *  [Derek Foster](defoster@lincoln.ac.uk)
- *  [D. Cenk Urdil](erdild@sacredheart.edu)
- *  [Laurie White ](lauriewhite@google.com)
- 
- Working Group members are:
 
 ## The Knowledge Areas
 
