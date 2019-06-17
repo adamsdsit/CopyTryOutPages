@@ -33,6 +33,10 @@ A full list of participants for 2018 and 2019 can be [found here](participants.m
 
 A full list of the Knowledge Areas presented in [1] is on [this page](KUs.md).
 
+## Lerning Outcomes
+
+A full list of learning outcomes can be found here.
+
 
 ## References
 
